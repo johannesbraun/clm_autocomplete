@@ -1,0 +1,1 @@
+http://localhost:8983/solr/olx/spell?df=query&spellcheck.q=zakati&spellcheck=true&spellcheck.collateParam.q.op=AND&wt=json
